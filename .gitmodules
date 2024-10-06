@@ -1,0 +1,9 @@
+[submodule "Webapplication_RestAPI"]
+	path = Webapplication_RestAPI
+	url = https://github.com/saniya0797/Webapplication_RestAPI.git
+[submodule "pulumi-infrastructure-as-Code"]
+	path = pulumi-infrastructure-as-Code
+	url = https://github.com/saniya0797/pulumi-infrastructure-as-Code.git
+[submodule "serverless-Lambda-function"]
+	path = serverless-Lambda-function
+	url = https://github.com/saniya0797/serverless-Lambda-function.git
